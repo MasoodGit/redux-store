@@ -5,7 +5,7 @@ module.exports = {
     path: __dirname + '/dist/',
   },
   devServer: {
-    port: 8000,
+    port: 4200,
   },
   resolve: {
     extensions: ['.ts', '.js'],
